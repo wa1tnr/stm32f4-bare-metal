@@ -1,5 +1,13 @@
 # stm32f4-bare-metal
 
+# wa1tnr local
+
+# Sat Jun 20 13:25:42 UTC 2020
+
+Instead of a bookmark, this looks interesting enough to have forked. ;)
+
+# Upstream:
+
 Bare metal STM32F4 examples to serve as starting points for projects. Educational purposes.
 
 Some of the STM32F4xx family based processor headers are added in the `include` folder to get register locations. CMSIS library is added for a general support. No extra HAL libraries is used except the selected projects described below.
